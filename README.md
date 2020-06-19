@@ -1,5 +1,7 @@
 # GrafkomH-672018219-Tugas4
 
+Press Keyboard C to show/hide Polygon
+
 Name : Yuhono Indra P <br>NIM : 672018219 <br>Universitas Kristen Satya Wacana<br>
 
 IDE : Codeblock 20.03 MinGW OS : Windows 10 1909 Library : Freeglut dan Glut
